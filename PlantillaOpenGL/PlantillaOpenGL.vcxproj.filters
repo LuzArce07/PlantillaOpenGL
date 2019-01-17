@@ -30,4 +30,12 @@
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="resources\glew32.dll">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+    <None Include="resources\glfw3.dll">
+      <Filter>Archivos de recursos</Filter>
+    </None>
+  </ItemGroup>
 </Project>
